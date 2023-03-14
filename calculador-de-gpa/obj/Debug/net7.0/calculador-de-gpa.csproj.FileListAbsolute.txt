@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\bin\Debug\net7.0\calculador-de-gpa.exe
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\bin\Debug\net7.0\calculador-de-gpa.deps.json
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\bin\Debug\net7.0\calculador-de-gpa.runtimeconfig.json
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\bin\Debug\net7.0\calculador-de-gpa.dll
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\bin\Debug\net7.0\calculador-de-gpa.pdb
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\obj\Debug\net7.0\calculador-de-gpa.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\obj\Debug\net7.0\calculador-de-gpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\obj\Debug\net7.0\calculador-de-gpa.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\obj\Debug\net7.0\calculador-de-gpa.AssemblyInfo.cs
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\obj\Debug\net7.0\calculador-de-gpa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\obj\Debug\net7.0\calculador-de-gpa.dll
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\obj\Debug\net7.0\refint\calculador-de-gpa.dll
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\obj\Debug\net7.0\calculador-de-gpa.pdb
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\obj\Debug\net7.0\calculador-de-gpa.genruntimeconfig.cache
+C:\Users\Admin\Documents\comands\progamação\Meus-Projetos\Primeiros-Passos-C#-Microsoft\calculador-de-gpa\obj\Debug\net7.0\ref\calculador-de-gpa.dll
